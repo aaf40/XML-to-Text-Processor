@@ -1,3 +1,7 @@
+# TO DO: 
+# 1. add/test with multiple entires separated by a space and to be written on the next row
+# 2. remove the need to hardcode the xml file path if possible
+
 import os
 import xml.etree.ElementTree as ET
 
